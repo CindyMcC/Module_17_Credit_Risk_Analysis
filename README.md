@@ -31,7 +31,7 @@ The following results were derived from the testing.  Below are images of the sa
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Easy Ensemble AdaBoost Classifier: 91%<br><br>
 
 ## Summary
-
+Although the Easy Ensemble method had the best numbers for the three values we reviewed, there is another number that is important to the decision.  The F-1 number would give a better idea of how balanced each model would be.  Both the Easy Ensemble and the Balanced Random Forest algorithms had acceptable F-1 numbers and either one could be used for predictions, with the Easy Ensemble showing a better set of numbers overall.<br><br><br><br>
 
 
 
