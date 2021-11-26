@@ -2,7 +2,7 @@
 UNC Bootcamp - Module 17 Challenge
 
 ## OVERVIEW
-The goal of this project was to determine which, if any, of six modeling processes for machine learning would provide a better prediction of high-risk credit card consumers.  The data was supplied from LendingClub in a csv format.  The data was oversampled with RandomOverSampler and SMOTE algorithms, undersampled with the ClusterCentroids algorithm, and a combination of the two with the SMOTEENN algorithm.  Two machine learning models, BalanceRandomForestClassifier and EasyEmsembleClassifer, were also applied to the data.
+The goal of this project was to determine which, if any, of six modeling processes for machine learning would provide a better prediction of high-risk credit card consumers.  The data was supplied from LendingClub in a csv format.  The data was oversampled with RandomOverSampler and SMOTE algorithms, undersampled with the ClusterCentroids algorithm, and a combination of the two with the SMOTEENN algorithm.  Two machine learning models, BalanceRandomForestClassifier and EasyEnsembleClassifer, were also applied to the data.
 
 ## RESULTS
 The following results were derived from the testing.  Below are images of the sampling results for all six models.  <br><br>
